@@ -1,9 +1,9 @@
 [submodule "social_investment_data_foundation"]
-	path = social_investment_data_foundation
+	path = lib/social_investment_data_foundation
 	url = https://github.com/nz-social-investment-agency/social_investment_data_foundation.git
 [submodule "social_investment_analytical_layer"]
-	path = social_investment_analytical_layer
+	path = lib/social_investment_analytical_layer
 	url = https://github.com/nz-social-investment-agency/social_investment_analytical_layer.git
 [submodule "mha_data_definition"]
-	path = mha_data_definition
+	path = lib/mha_data_definition
 	url = https://github.com/nz-social-investment-agency/mha_data_definition.git
