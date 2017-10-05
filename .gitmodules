@@ -7,3 +7,6 @@
 [submodule "mha_data_definition"]
 	path = lib/mha_data_definition
 	url = https://github.com/nz-social-investment-agency/mha_data_definition.git
+[submodule "lib/SIAtoolbox"]
+	path = lib/SIAtoolbox
+	url = https://github.com/nz-social-investment-agency/SIAtoolbox.git
