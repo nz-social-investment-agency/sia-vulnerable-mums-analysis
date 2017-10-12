@@ -1,7 +1,7 @@
 # sia-vulnerable-mums-analysis
 
 ## Overview
-This repository contains code to perform exploratory analysis and identify natural clusters among mothers and their children along with key characteristics that describe each of these clusters. The objective of this analysis is to check whether there are distinctive patterns in the data that describe groups with risk of bad outcomes. This work is part of exploratory analysis for identification of priority populations.
+This repository contains code to perform exploratory analysis and identify natural clusters among mothers and their children along with key characteristics that describe each of these clusters. The objective of this analysis is to check whether there are distinctive patterns in the data that describe groups with risk of bad outcomes. Instead of relying purely on the presence or absence of a risk factor for a particular individual, we attempt to create fuzzy groupings of individuals that look quite similar to each other in terms of their characteristics, and then identify groups that register highly on risk factor variables. This work is part of exploratory analysis for identification of priority populations.
 
 ## Dependencies
 * It is necessary to have an IDI project if you wish to run the code. Visit the Stats NZ website for more information about this.
