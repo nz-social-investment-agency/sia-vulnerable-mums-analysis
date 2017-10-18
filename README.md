@@ -54,4 +54,4 @@ This folder contains all the code necessary to build characteristics and service
 
 
 ## Getting Help
-If you have any questions email info@sia.govt.nz Tracking number: SIA-2017-0261
+If you have any questions email info@sia.govt.nz. Tracking number: SIA-2017-0261
