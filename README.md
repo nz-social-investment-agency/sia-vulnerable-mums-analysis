@@ -3,6 +3,23 @@
 ## Overview
 This repository contains code to perform exploratory analysis and identify natural clusters among mothers and their children along with key characteristics that describe each of these clusters. The objective of this analysis is to check whether there are distinctive patterns in the data that describe groups with risk of bad outcomes. Instead of relying purely on the presence or absence of a risk factor for a particular individual, we attempt to create fuzzy groupings of individuals that look quite similar to each other in terms of their characteristics, and then identify groups that register highly on risk factor variables. This work is part of exploratory analysis for identification of priority populations.
 
+
+## License for Vulnerable Mums Analysis Content
+[![License: CC BY SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+Crown copyright ©. This copyright work is licensed under the Creative Commons Attribution 4.0 International licence. In essence, you are free to copy, distribute and adapt the work, as long as you attribute the work to the New Zealand Government and abide by the other licence terms. 
+
+To view a copy of this licence, visit [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/). 
+
+Please note that neither the New Zealand Government emblem nor the New Zealand Government logo may be used in any way which infringes any provision of the [Flags, Emblems, and Names Protection Act 1981](http://www.legislation.govt.nz/act/public/1981/0047/latest/whole.html) or would infringe such provision if the relevant use occurred within New Zealand. Attribution to the New Zealand Government should be in written form and not by reproduction of any emblem or the New Zealand Government logo.
+
+## License for Vulnerable Mums Analysis Code Base
+GNU GPLv3 License
+
+Crown copyright (c) 2017, Social Investment Agency on behalf of the New Zealand Government.
+
+See ![LICENSE.md](https://github.com/nz-social-investment-agency/sia-vulnerable-mums-analysis/blob/master/LICENSE) for more details.
+
 ## Dependencies
 * It is necessary to have an IDI project if you wish to run the code. Visit the Stats NZ website for more information about this.
 * Code dependencies are captured via submodules in this repository. You will find the submodules in the `lib` folder of this repository. To ensure you clone the submodules as well, use `git clone --recursive https://github.com/nz-social-investment-agency/vulnerable_mothers.git`. Regular cloning or downloading of the zip file will result in all the `lib` subfolders being empty. Currently the code dependencies for the vulnerable mothers repository are -
